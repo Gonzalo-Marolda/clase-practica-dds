@@ -7,8 +7,8 @@ Practica de persistencia de datos.
 * Para una rama base con soporte para JPA, Java 17 y Spark, ver [acá](https://github.com/dds-utn/jpa-proof-of-concept-template/tree/jpa-spark-java-17)
 
 Integrantes: 
-Valentin Marin
-Laureano Ibarra
-Ramiro Lopez
-Eugenia Perez
+Valentin Marin, 
+Laureano Ibarra, 
+Ramiro Lopez, 
+Eugenia Perez, 
 Gonzalo Agustin Marolda
